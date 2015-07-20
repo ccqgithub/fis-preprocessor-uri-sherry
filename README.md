@@ -1,5 +1,7 @@
-### 补充资源定位函数 __uri
+fis-preprocessor-uri-sherry
+==
 
+> 补充资源定位函数 __uri
 
 主要用途：一般img的src，a表情的href，如果匹配到对应的文件，发布后fis会将对应文件的路径转为正确的uri。
 

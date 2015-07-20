@@ -1,5 +1,5 @@
 {
-  "name": "sherry-preprocessor-uri",
+  "name": "fis-preprocessor-uri-sherry",
   "version": "0.0.5",
   "description": "fis 插件，作用于preprocessor阶段。补充资源定位函数'__uri'",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccqgithub/sherry-preprocessor-uri.git"
+    "url": "https://github.com/ccqgithub/fis-preprocessor-uri-sherry.git"
   },
   "keywords": [
-    "sherry-preprocessor-uri",
+    "fis-preprocessor-uri-sherry",
     "sherry",
     "fis"
   ],
